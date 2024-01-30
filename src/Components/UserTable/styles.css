@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+}
+
+.list {
+  bottom: 0px;
+  width: 100%;
+  border-style: solid;
+  text-align: center;
+  cursor: pointer;
+  background-color: gray;
+  transition: background-color 1s ease;
+}
+
+.list:hover {
+  background-color: rgb(90, 88, 88);
+}
+.list:focus {
+  background-color: rgb(32, 32, 32);
+}
+.UL {
+  padding-top: 30px;
+}

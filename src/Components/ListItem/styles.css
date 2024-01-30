@@ -1,0 +1,12 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px;
+}
+
+.item label {
+  width: 20rem;
+  display: flex;
+  align-items: flex-start;
+}

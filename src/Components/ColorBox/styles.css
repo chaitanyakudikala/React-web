@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.box {
+  height: 200px;
+  width: 200px;
+  border-color: rgb(229, 234, 234);
+  border-style: solid;
+  border: 1;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
